@@ -1,4 +1,4 @@
-![CS-3A banner](https://raw.githubusercontent.com/MSalh-CS-3A/.github/main/banner.png)
+![CS-3A banner](https://raw.githubusercontent.com/MSalh-CS-3A/.github/main/CS-3A AI & engineering banner.png)
 
 Third-year AI and engineering projects at CentraleSupélec.
 
